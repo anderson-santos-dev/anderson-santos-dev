@@ -5,7 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Backend Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-      <a align="center" href="https://www.linkedin.com/in/anderson-santos-864420224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+      <a align="center" href="https://www.linkedin.com/in/anderson-santos-864420224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" color="blue" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 
 <p align="center">
